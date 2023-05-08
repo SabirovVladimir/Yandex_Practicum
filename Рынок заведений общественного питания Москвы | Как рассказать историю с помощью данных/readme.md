@@ -1,10 +1,10 @@
-8. Рынок заведений общественного питания Москвы | Как рассказать историю с помощью данных
+# 8. Рынок заведений общественного питания Москвы | Как рассказать историю с помощью данных
 Используемые библиотеки: pandas, numpy, requests, matplotlib, seaborn, functools
 Также: построение визуализаций
 
 Задача: Подготовил исследование рынка Москвы, нашел интересные особенности и презентовал полученные результаты, которые в будущем помогут в выборе подходящего инвесторам места для размещения новой кофейни. 
 
-8. Catering establishments market in Moscow | How to tell a story with data
+# 8. Catering establishments market in Moscow | How to tell a story with data
 Libraries: pandas, numpy, requests, matplotlib, seaborn, functools
 Also: visualizations
 
