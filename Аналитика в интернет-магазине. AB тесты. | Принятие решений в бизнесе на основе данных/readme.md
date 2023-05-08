@@ -2,7 +2,7 @@
 Используемые библиотеки: pandas, numpy, math, scipy, matplotlib, seaborn
 Также: анализ A/B тестов, проверка гипотез
 
-Задача: Провел приоритезацию гипотез, анализировала результаты A/B-теста.
+Задача: Провел приоритезацию гипотез, проанализировал результаты A/B-теста.
 
 # 6. Analytics in the online store. A/B tests. | Data driven business decisions
 Libraries: pandas, numpy, math, scipy, matplotlib, seaborn
