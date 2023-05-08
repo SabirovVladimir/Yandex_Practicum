@@ -62,7 +62,7 @@
 <td>pandas, numpy, matplotlib, plotly, seaborn, scipy</td>
 </tr><tr>
 <td><a href="https://github.com/SabirovVladimir/Yandex_Practicum/blob/main/ФИНАЛЬНЫЙ%20ПРОЕКТ%20%7C%20SQL/SQL.ipynb" rel="nofollow">
-<b>ФИНАЛЬНЫЙ ПРОЕКТ | Анализ АB-теста</b></a></td>
+<b>ФИНАЛЬНЫЙ ПРОЕКТ | SQL</b></a></td>
 <td>Проанализировал данные по изданным книгам для книжного интернет-магазина.</td>
 <td>pandas, sqlalchemy</td>
 </tr><tr>
