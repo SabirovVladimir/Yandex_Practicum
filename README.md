@@ -51,4 +51,19 @@
 <td>Провел анализ пользовательского взаимодействия с карточками статей на Яндекс.Дзен, подготовил презентацию и дашборд в Tableau.</td>
 <td>Tableau</td>
 </tr><tr>
+<td><a href="https://github.com/SabirovVladimir/Yandex_Practicum/blob/main/ФИНАЛЬНЫЙ%20ПРОЕКТ%20%7C%20Анализ%20рекламных%20источников%20мобильной%20игры%20«Космические%20братья»/Анализ%20рекламных%20источников%20мобильной%20игры%20«Космические%20братья».ipynb" rel="nofollow">
+<b>ФИНАЛЬНЫЙ ПРОЕКТ | Анализ рекламных источников мобильной игры «Космические братья»</b></a></td>
+<td>Проанализировал и определил наиболее выгодные источники трафика. Составил рекомендации для отдела маркетинга.</td>
+<td>pandas, numpy, matplotlib, seaborn, sklearn, scipy</td>
+</tr><tr>
+<td><a href="https://github.com/SabirovVladimir/Yandex_Practicum/blob/main/ФИНАЛЬНЫЙ%20ПРОЕКТ%20%7C%20Анализ%20АB-теста/Финальный%20проект%20АВ%20тест.ipynb" rel="nofollow">
+<b>ФИНАЛЬНЫЙ ПРОЕКТ | Анализ АB-теста</b></a></td>
+<td>Оценил корректность проведения теста, оцнил результаты проведенного теста.</td>
+<td>pandas, numpy, matplotlib, plotly, seaborn, scipy</td>
+</tr><tr>
+<td><a href="https://github.com/SabirovVladimir/Yandex_Practicum/blob/main/ФИНАЛЬНЫЙ%20ПРОЕКТ%20%7C%20SQL/SQL.ipynb" rel="nofollow">
+<b>ФИНАЛЬНЫЙ ПРОЕКТ | Анализ АB-теста</b></a></td>
+<td>Проанализировал данные по изданным книгам для книжного интернет-магазина.</td>
+<td>pandas, sqlalchemy</td>
+</tr><tr>
 </table>
